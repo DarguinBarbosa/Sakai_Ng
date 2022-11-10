@@ -55,7 +55,7 @@ export class AppMenuComponent implements OnInit {
                 ]
             },
             {
-                label:'Prime Blocks',
+                label:'Prime Blocks HOLA SOY MENU ',
                 items:[
                     {label: 'Free Blocks', icon: 'pi pi-fw pi-eye', routerLink: ['/blocks'], badge: 'NEW'},
                     {label: 'All Blocks', icon: 'pi pi-fw pi-globe', url: ['https://www.primefaces.org/primeblocks-ng'], target: '_blank'},
